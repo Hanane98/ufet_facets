@@ -1,4 +1,4 @@
-# Ultra fine entity typing
+# Ultra fine entity typing (UFET)
 
 ## 1. Training
 ```
